@@ -1,7 +1,7 @@
 hello git! hello zew  11111111!
 hello git! hello zew! 22222222!
 hello git! hello zew!
-hello git! hello zew!
+hello git! hello zew   hot-fix update!
 hello git! hello zew!
 hello git! hello zew!
 hello git! hello zew!
